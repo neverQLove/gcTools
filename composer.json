@@ -1,0 +1,22 @@
+{
+    "name": "gc/phptools",
+    "description": "utils",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "guchao",
+            "email": "793501257@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0",
+        "ext-curl": "*"
+    },
+	"autoload": {
+        "psr-4": {
+            "gc\\phptools\\": "src/"
+        }
+    }
+}
