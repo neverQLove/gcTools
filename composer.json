@@ -1,5 +1,5 @@
 {
-    "name": "gc/phptools",
+    "name": "gcy/phptools",
     "description": "utils",
     "type": "library",
     "license": "Apache-2.0",
